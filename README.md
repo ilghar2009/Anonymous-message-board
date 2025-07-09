@@ -7,7 +7,4 @@ A simple API to post and view anonymous messages.
 - Post anonymous messages
 - View all messages (newest first)
 
-## Installation
-
-1. Clone the repo:
 
