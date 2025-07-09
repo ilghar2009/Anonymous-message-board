@@ -10,4 +10,4 @@ A simple API to post and view anonymous messages.
 ## Installation
 
 1. Clone the repo:
-```bash
+
