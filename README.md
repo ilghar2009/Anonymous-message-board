@@ -11,5 +11,3 @@ A simple API to post and view anonymous messages.
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/ilghar2009/.git
-cd yourrepo
